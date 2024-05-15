@@ -54,8 +54,4 @@ sudo docker run hello-world
 
 echo "Ambiente de desenvolvimento configurado com sucesso!"
 
-#  pub   ed25519 2024-05-15 [SC] [expira: 2027-05-15]
-      009B7ABF5241D5C6FF9CC70BE19B490E17328449
-uid                      Rodrigo Martins de Jesus <rdg9956@gmail.com>
-sub   cv25519 2024-05-15 [E] [expira: 2027-05-15]
 
